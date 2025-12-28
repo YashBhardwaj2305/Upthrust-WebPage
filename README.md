@@ -24,15 +24,18 @@ A high-fidelity, responsive landing page built as part of the Upthrust recruitme
 ├── index.html          # Main entry point
 ├── style.css           # Core stylesheets  
 └── images/             # Images and icons
-⚙️ Installation & Local Setup
-Clone the repository:
+```
 
+## ⚙️ Installation & Local Setup
+Clone the repository:
+```
 Bash
 
 git clone [https://github.com/YashBhardwaj2305/Upthrust-WebPage.git](https://github.com/YashBhardwaj2305/Upthrust-WebPage.git)
+```
 Open index.html in your preferred browser.
 
-✉️ Contact
+## ✉️ Contact
 Yash Bhardwaj -
 https://www.linkedin.com/in/yash-bhardwaj-8b5218280/
 Project Link: https://github.com/YashBhardwaj2305/Upthrust-WebPage
